@@ -7,6 +7,10 @@ Arquivos da Turma **1606024 NodeJS - Targettrust**
 - Que o arquivo .eslint.json está no diretório do projeto.
 - Que você tem a extensão do ESLint instalada no seu VSCode
 - Que você tem um package.json com a entrada da dependência do ESLint criada: "eslint": "^8.28.0"
+
+teste
+
+
 Execute:
 ```
 npm install
